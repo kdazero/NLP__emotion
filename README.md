@@ -7,14 +7,15 @@
 - [google-bert/bert-base-chinese](https://huggingface.co/google-bert/bert-base-chinese)
 
 ## 安裝套件
-- torch        | 2.6.0
-- torchvision  | 0.21.0
-- torchaudio   | 2.6.0
-- transformers | 4.48.3
-- datasets     | 3.2.0
-- evaluate     | 0.4.3
-- accelerate   | 1.3.0
-- scikit-learn | 1.5.5
+- |套件名稱|版本號|
+- |torch        | 2.6.0|
+- |torchvision  | 0.21.0|
+- |torchaudio   | 2.6.0|
+- |transformers | 4.48.3|
+- |datasets     | 3.2.0|
+- |evaluate     | 0.4.3|
+- |accelerate   | 1.3.0|
+- |scikit-learn | 1.5.5|
 
 
 ## 說明
