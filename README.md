@@ -15,7 +15,7 @@
 - evaluate     | 0.4.3
 - accelerate   | 1.3.0
 - scikit-learn | 1.5.5
-...
+
 
 ## 說明
 因檔案資料量小，有微調批次大小及降低 eval_steps
@@ -26,7 +26,6 @@
 
 eval/loss & eval/f1
 ![alt text](image-1.png)
-...
 
 ## 其它你想要補充標題和內容
 ...
