@@ -25,7 +25,7 @@
 ## 成果
 執行結果  
 Youtube 
-[![YT video](https://img.youtube.com/vi/bND_9Fqtw7I/0.jpg)](https://www.youtube.com/watch?v=bND_9Fqtw7I)
+[![image](https://github.com/user-attachments/assets/ba8d4a1c-bb4c-4609-ab6f-5e715bdcd1ec)](https://www.youtube.com/watch?v=bND_9Fqtw7I)
 ![alt text](image.png)
 
 eval/loss & eval/f1
