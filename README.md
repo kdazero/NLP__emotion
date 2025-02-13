@@ -24,6 +24,8 @@
 降低學習率但是變相的提高訓練次數達到訓練結果
 ## 成果
 執行結果  
+Youtube 
+[![YT video](https://img.youtube.com/vi/bND_9Fqtw7I/0.jpg)](https://www.youtube.com/watch?v=bND_9Fqtw7I)
 ![alt text](image.png)
 
 eval/loss & eval/f1
