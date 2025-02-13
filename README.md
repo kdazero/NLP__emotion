@@ -23,9 +23,9 @@
 因檔案資料量小，有微調批次大小及降低 eval_steps
 降低學習率但是變相的提高訓練次數達到訓練結果
 ## 成果
-執行結果  
 Youtube 
-[![image](https://github.com/user-attachments/assets/ba8d4a1c-bb4c-4609-ab6f-5e715bdcd1ec)](https://www.youtube.com/watch?v=bND_9Fqtw7I)
+[![image](https://github.com/user-attachments/assets/ba8d4a1c-bb4c-4609-ab6f-5e715bdcd1ec)](https://www.youtube.com/watch?v=bND_9Fqtw7I)  
+執行結果  
 ![alt text](image.png)
 
 eval/loss & eval/f1
